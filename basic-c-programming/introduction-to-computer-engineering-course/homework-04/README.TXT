@@ -1,0 +1,1 @@
+Ödevi Linux işletim sisteminde çalıştıramadım. Sadece Windows'ta sorunsuz çalışmaktadır.
